@@ -1,5 +1,5 @@
 # 👨🏻 About Me:
-<br>💻 Full-stack web developer based in Mexico City, seeking new professional challenges within the Tech industry.<br><br> 🧠 Founder of Neuro-dev, a neuropsychology consultancy, active during my time as a mental health professional.<br><br>🏃‍♂️ I enjoy TRX training, skateboarding, traveling, discovering new places, and talking about geopolitical and social issues.
+<br>💻 Full-stack web developer based in Mexico City, seeking for new professional challenges in the Tech industry.<br><br> 🧠 Founder of Neuro-dev, a neuropsychology consultancy, active during my time as a mental health professional.<br><br>🏃‍♂️ I enjoy TRX training, skateboarding, traveling, discovering new places, and talking about social and geopolitical issues.
 
 
 ## 🌐 Socials:
