@@ -1,5 +1,5 @@
-# 👨🏻 About Me:
-<br>💻 Full-stack web developer based in Mexico City, seeking for new professional challenges in the Tech industry.<br> 🧠 Founder of Neuro-dev, a neuropsychology consultancy, active during my time as a mental health professional.<br>🏃‍♂️ I enjoy TRX training, skateboarding, traveling, discovering new places, and talking about social and geopolitical issues.<br> 🎵 Music lover.
+#                               	Hi! I'm Jorge Rosano ✌️
+<br>- 💻 Full-stack web developer based in Mexico City, seeking for new professional challenges in the Tech industry.<br>- 🧠 Founder of Neuro-dev, a neuropsychology consultancy, active during my time as a mental health professional.<br>- 🏃‍♂️ I enjoy TRX training, skateboarding, traveling, discovering new places, and talking about social and geopolitical issues.<br>- 🎵 Music lover.
 
 
 ## 🌐 Socials:
