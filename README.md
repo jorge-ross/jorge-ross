@@ -8,6 +8,6 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,react,ruby,rails,postgres,html,css,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,react,nodejs,mongodb,mysql,postgres,fastapi,express,html,css,git,github,linux)](https://skillicons.dev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
