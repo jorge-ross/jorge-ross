@@ -1,5 +1,5 @@
 #                               	Hi! I'm Jorge Rosano ✌️
-<br>💻 Full-stack developer.<br>🚀 I make sites and apps.<br>🌱 Currently developing expertise in Scientific Computing and AWS cloud solutions.<br>🐧 Windows and Linux.<br>🎵 Melomaniac.
+<br>💻 Full-stack developer.<br>🚀 I make sites and apps.<br>🌱 Currently developing expertise in Cybersecurity, Scientific Computing and AWS cloud solutions.<br>🐧 Windows and Linux.<br>🎵 Melomaniac.
 
 
 ## 🌐 Socials:
